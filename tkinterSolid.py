@@ -6,7 +6,7 @@ from random import random
 #from rgbmatrix import graphics
 import tkinter
 
-seed(time)
+seed(1)
 xSize = 64
 ySize = 64
 

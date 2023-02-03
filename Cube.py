@@ -11,7 +11,7 @@ from random import random
 xSize = 500
 ySize = 500
 xOffset = 0
-seed(time)
+seed(1)
 class cube:
     point1 = [-100,100,100]
     point2 = [100,100,100]
